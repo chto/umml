@@ -28,7 +28,7 @@ Given an n-body simulation, predict the stellar mass function of the same univer
 python build_dataset.py --data_dir data/subdir --output_dir data/output
 ```
 
-## Quickstart (~10 min)
+## Start 
 
 3. __Train__ your experiment. Simply run
 ```
