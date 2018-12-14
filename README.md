@@ -1,4 +1,4 @@
-<<head
+<<<<<<< HEAD
 #Efficient Neural Network Implementation of the Universemachine 
 
 *Authors: Chun-Hao To, Ethan Nadler*
