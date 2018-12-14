@@ -32,4 +32,7 @@ python train.py --data_dir data/experiment1.1/datavector_original_split/ --model
 ```
 It will instantiate a model and train it on the training set following the hyperparameters specified in `params.json`. It will also evaluate some metrics on the validation set.
 
-4. Randomforest. simply run
+4. Random forest. simply run
+```
+python bach_resnetsearch.py
+```
