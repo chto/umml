@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# Hand Signs Recognition with PyTorch
+#Efficient Neural Network Implementation of the Universemachine 
 
-*Authors: Surag Nair, Olivier Moindrot and Guillaume Genthial*
+*Authors: Chun-Hao To, Ethan Nadler*
 
-Take the time to read the [tutorials](https://cs230-stanford.github.io/project-starter-code.html).
-
-Note: all scripts must be run in folder `pytorch/vision`.
 
 ## Requirements
 
